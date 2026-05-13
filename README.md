@@ -191,7 +191,7 @@ Customer-Behavior-Analysis/
 │   └── Ecommerce_Consumer_Behavior_Analysis_Data.csv   # Raw dataset
 │
 ├── notebooks/
-│   └── customer_behavior_analysis.ipynb                # Main Jupyter Notebook
+│   └── Customer_Behavior_Analysis.Using.Python.ipynb                # Main Jupyter Notebook
 │                                       
 ├── README.md                                           # Project documentation
 └── requirements.txt                                    # Python dependencies
@@ -208,8 +208,8 @@ Make sure you have **Python 3.8+** and **pip** installed on your machine.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/customer-behavior-analysis.git
-cd customer-behavior-analysis
+git clone https://github.com/ReddyNohith/Customer_Behavior_Analysis.git
+cd Customer_Behavior_Analysis
 ```
 
 ### 2️⃣ Install Dependencies
@@ -233,7 +233,7 @@ jupyter notebook
 Then open:
 
 ```
-notebooks/customer_behavior_analysis.ipynb
+notebooks/Customer_Behavior_Analysis.Using.Python.ipynb
 ```
 
 ## 📄 `requirements.txt`
